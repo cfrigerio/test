@@ -1,2 +1,4 @@
 Hello I'm Marta
 
+I'm a Mathematician and I have enrolled in the course to learn machine learning models
+
